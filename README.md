@@ -1,24 +1,20 @@
 # front_vuejs
+Mathematical relation web-application
 
 ## Project setup
 ```
-npm install
+[NodeJS Download](https://nodejs.org/).
 ```
 
-### Compiles and hot-reloads for development
+## Project run method
+### Run front-end VueJS
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Run back-end NodeJS
+Open new terminal.
 ```
-npm run build
+cd back_nodejs
+npm run server
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
