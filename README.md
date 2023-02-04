@@ -16,4 +16,4 @@ Open new terminal.
 cd back_nodejs
 npm run server
 ```
-See API result [http://localhost:3000/](http://localhost:3000/api)
+See API result [http://localhost:3000/api](http://localhost:3000/api)
