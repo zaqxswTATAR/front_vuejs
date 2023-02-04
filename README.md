@@ -8,6 +8,7 @@ Mathematical relation web-application
 ```
 npm run serve
 ```
+See web-application [http://localhost:8080/](http://localhost:8080/)
 
 ### Run back-end NodeJS
 Open new terminal.
@@ -15,3 +16,4 @@ Open new terminal.
 cd back_nodejs
 npm run server
 ```
+See API result [http://localhost:3000/](http://localhost:3000/api)
