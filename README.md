@@ -3,7 +3,7 @@ Mathematical relation web-application
 
 ## Project setup
 ```
-[NodeJS Download](https://nodejs.org/)
+[NodeJS_Download](https://nodejs.org/)
 ```
 
 ## Project run method
