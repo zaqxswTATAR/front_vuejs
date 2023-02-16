@@ -2,7 +2,7 @@
 Mathematical relation web-application
 
 ## Project setup
-[NodeJS Download](https://nodejs.org)
+[NodeJS Download](https://nodejs.org)  
 Install VueJS cli.
 ```
 npm install -g @vue/cli
